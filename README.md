@@ -6,5 +6,4 @@ Andrew Walsh
 
 About Me
 
-I live in the United States
-I am passionate about technology
+I live in Belgium and I am passionate about technology
